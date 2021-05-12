@@ -1,2 +1,12 @@
-# ReactJS-Mongo-Python
-Assignment to NJC Labs - React Js as Frontend, Python , Mongo DB for Database REST API
+# NJC Labs 
+
+Assignment Submission- React JS - Mongo DB - Python Flask Rest Api
+
+
+Run Both Folders By Running the Python Script app.py
+
+Front End 
+
+npm install to install all Node Modules
+
+npm start 
